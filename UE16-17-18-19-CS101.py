@@ -1,4 +1,4 @@
-#1a i) False ii) True iii) False iv) True v) False vi) True
+#1a i) True ii) True iii) False iv) True v) False vi) True
 
 #1b i) Interpreter is a program that executes instructions written in a programming language. It reads the line of code from a program
 # and decodes the instruction and executes it. Example of Interpreter is Python.
