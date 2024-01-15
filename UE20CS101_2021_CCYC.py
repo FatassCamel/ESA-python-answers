@@ -2,7 +2,7 @@
 # ii) 4
 # iii) -10
 # iv) 1 True
-# v) True
+# v) 4
 
 #1b) 
 for i in range(4, 0, -1):
