@@ -1,4 +1,4 @@
-#1a) i) 0.5 ii) 4 (Right shift Left Shift again) iii) 9 iv) 1,True v) 4
+#1a) i) 0.5 ii) 4 (Right shift Left Shift again) iii) -8 iv) 1,True v) 4
 
 #1b) i) 0 1 2 0 ii) No output iii) Error 
 
