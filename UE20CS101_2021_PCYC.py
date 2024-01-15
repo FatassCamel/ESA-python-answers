@@ -1,5 +1,5 @@
 #1a) i) -6 ii) 7 (Bitwise OR operator) 
-#iii) Pro tip:- ~~ always gives the same number, so jus directly do the operation, in this case 5*2 = 10
+#iii) Pro tip:- ~~ always gives the same number, so jus directly do the operation,  but in this case output is -12
 #iv) False v) 8
 
 #1b) 
