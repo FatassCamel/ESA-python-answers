@@ -58,7 +58,7 @@ word = 'chuck'
 frequency = freq(filename, word)
 print(f"'{word}' occurs {frequency} times in the file")
 
-#3c) i) 3 ii) [3,4,2]
+#3c) i) 9 ii) [3,4,2]
 
 #3d) i) Syntax for button is :- w=Button(parent,options), 
 #where parent is the window in which button is to be placed and 
