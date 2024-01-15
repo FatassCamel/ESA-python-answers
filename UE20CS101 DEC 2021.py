@@ -70,18 +70,8 @@ print(gcd(a,b))
 #3d) i) 9 ii) [3, 4, 2] 
 
 #4a) i)
-num = int(input("Enter : "))
-is_prime = True
-
-for i in range(2, int(num**0.5) + 1):
-    if num % i == 0:
-        is_prime = False
-        break
-
-if is_prime and num != 1:
-    print(f"{num} is a prime number.")
-else:
-    print(f"{num} is not a prime number.")
+n = int(input("Enter : "))
+print(0 not in [(n % j) for j in range(2, int(n**0.5) + 1)])
 
 # ii) a) [-1,-2,-3] b) [2,3,0,1,6] (Bitwise XOR operator)
     
