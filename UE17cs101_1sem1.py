@@ -22,11 +22,8 @@
 #{} type is <class 'dict'>
 #set({}) error as we cant convert empty dictionary to set.
 
-#2a) (i) 3 (ii) 4. Decimal number is being converted to Binary and the line "if n%2" checks if the digit is 1, 
-#if it is 1 then s is incremented by 1. "n>>=1" shifts the binary number to right by 1 bit.
-#binary equivalent of 25 is 11001 and since there r 3 1's in it, the output is 3. 
-#similary binary equivalent of 15 is 1111 and since there r 4 1's in it, the output is 4.
-
+#2a) (i) 2 ii) 2 The program finds remainded when a number n is divided by 2 using % operator which gives remainder. 
+# now with the remainder, right shift of 2 bits is done and therefore, output is 2 for both the cases.
 #2b) pgm for geometric progression
 
 a = int(input("Enter first term : "))
