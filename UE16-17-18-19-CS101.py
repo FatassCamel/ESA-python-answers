@@ -91,13 +91,13 @@ print(sum_digits(n))
 
 #4b) pgm to count number of 1s in a binary representation of integer
 
-def count(n):
+def count_bin(n):
     x = bin(n)[2:]
     print('Binary representation of',n,'is',x)
     return x.count('1')
 
 a = int(input("Enter a number: "))
-print(count(a))
+print(count_bin(a))
 
 #4c) (i) Corrected code is :- 
 def foo(x):
